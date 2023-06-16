@@ -5,8 +5,8 @@
  */
 #include <stdio.h>
 
-int main(void)  //int main(void) specifies that the main function takes no arguments.
+int main(void)
 {
     puts("Programming is like building a multilingual puzzle");
-    return (0);    // will always return zero
+    return (0);
 }
